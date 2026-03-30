@@ -1279,7 +1279,8 @@ if __name__ == "__main__":
         print("   Get free key → https://console.groq.com\n")
     else:
         print("\n✅ Groq API key loaded!")
-
+        
+    os.makedirs("output/ai_daily", exist_ok=True)
     os.makedirs("output", exist_ok=True)
     print("🎓  Student Opportunity Finder →  http://localhost:5000\n")
     port = int(os.environ.get("PORT", 5000))
