@@ -1,0 +1,138 @@
+{
+  "id": "20260330_120446",
+  "date": "2026-03-30",
+  "insight": "The increasing presence of AI in various industries and aspects of life is leading to a mix of innovative applications and concerning consequences, highlighting the need for responsible development and deployment of AI technologies. As AI continues to advance and integrate into different fields, from mathematics and coding to travel and warfare, its impact on society will likely become more profound and far-reaching, transforming the way we live and work.",
+  "articles": [
+    {
+      "headline": "OpenAI Shuts Down Sora",
+      "bulletPoints": [
+        "Sora shut down six months after release",
+        "Users had uploaded their own faces",
+        "Data grab suspicions were raised"
+      ],
+      "whyItMatters": "The shutdown of Sora raises concerns about data collection and user privacy. It also sparks questions about the true intentions behind the app's release.",
+      "category": "LLMs",
+      "sourceUrl": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "Mon, 30 Mar 2026 03:09:38 +0000"
+    },
+    {
+      "headline": "Sora Shutdown Reality Check",
+      "bulletPoints": [
+        "Sora's shutdown may impact AI video industry",
+        "Potential broader pullback on AI-generated video",
+        "Corporate strategy or industry trend?"
+      ],
+      "whyItMatters": "Sora's shutdown could signal a shift in the AI video industry, potentially affecting investment and innovation. This may lead to a reevaluation of the industry's growth and prospects.",
+      "category": "Startups",
+      "sourceUrl": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "Sun, 29 Mar 2026 16:30:00 +0000"
+    },
+    {
+      "headline": "Bluesky AI App Attie",
+      "bulletPoints": [
+        "AI-powered feed builder",
+        "Customizable feeds available",
+        "Open social networking protocol"
+      ],
+      "whyItMatters": "Bluesky's Attie app utilizes AI to enhance user experience and provide personalized feeds, which could revolutionize social networking. This innovation has significant implications for the future of online interaction.",
+      "category": "Startups",
+      "sourceUrl": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "Sat, 28 Mar 2026 23:00:00 +0000"
+    },
+    {
+      "headline": "AI Chatbots Give Bad Advice",
+      "bulletPoints": [
+        "Study by Stanford",
+        "Measures harm of AI",
+        "Dangers of AI advice"
+      ],
+      "whyItMatters": "The study highlights the potential risks of relying on AI chatbots for personal advice, which can have negative consequences. This research is crucial in understanding the limitations of AI systems.",
+      "category": "Ethics",
+      "sourceUrl": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "Sat, 28 Mar 2026 20:45:54 +0000"
+    },
+    {
+      "headline": "AI Tool Aids Mathematicians",
+      "bulletPoints": [
+        "Discovers mathematical patterns",
+        "Unlocks solutions to problems",
+        "Free tool available"
+      ],
+      "whyItMatters": "This tool can revolutionize the field of mathematics by providing new insights and solutions. It can aid mathematicians in their research and discoveries.",
+      "category": "Tools",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "Wed, 25 Mar 2026 13:59:17 +0000"
+    },
+    {
+      "headline": "AI Agents Book Trips",
+      "bulletPoints": [
+        "Book family trips",
+        "Handle purchase details",
+        "Use user points"
+      ],
+      "whyItMatters": "This technology enables AI agents to execute tasks autonomously, making it a significant step forward in AI development. It has the potential to revolutionize the way we interact with digital agents.",
+      "category": "LLMs",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "Wed, 25 Mar 2026 11:48:13 +0000"
+    },
+    {
+      "headline": "AI Goes to War",
+      "bulletPoints": [
+        "Anthropic feuds with Pentagon",
+        "OpenAI makes opportunistic deal",
+        "Users quit ChatGPT"
+      ],
+      "whyItMatters": "The increasing involvement of AI in warfare raises concerns about its potential impact and ethics. This trend may have significant implications for the future of AI development and regulation.",
+      "category": "Ethics",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "Wed, 25 Mar 2026 09:00:00 +0000"
+    },
+    {
+      "headline": "AI-fueled delusions",
+      "bulletPoints": [
+        "AI delusions rise",
+        "Pentagon AI plans",
+        "Newsletter insights"
+      ],
+      "whyItMatters": "Understanding AI-fueled delusions is crucial for addressing their potential impact on society. This knowledge can help mitigate potential risks and consequences.",
+      "category": "Ethics",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "Mon, 23 Mar 2026 16:31:20 +0000"
+    },
+    {
+      "headline": "Railway AI Cloud",
+      "bulletPoints": [
+        "$100 million funding",
+        "2 million developers",
+        "AI-native infrastructure"
+      ],
+      "whyItMatters": "Railway's funding will help challenge AWS with AI-native cloud infrastructure, meeting surging demand for AI applications. This could lead to more efficient and scalable AI solutions.",
+      "category": "Startups",
+      "sourceUrl": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "sourceName": "VentureBeat AI",
+      "publishedAt": "Thu, 22 Jan 2026 14:00:00 GMT"
+    },
+    {
+      "headline": "AI Coding Assistants",
+      "bulletPoints": [
+        "Claude Code costs $20-$200/month",
+        "Goose offers similar functionality for free",
+        "AI coding revolution is expensive"
+      ],
+      "whyItMatters": "The high cost of AI coding assistants like Claude Code may limit their adoption, but free alternatives like Goose could make these tools more accessible. This could have significant implications for the software development industry.",
+      "category": "Tools",
+      "sourceUrl": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "sourceName": "VentureBeat AI",
+      "publishedAt": "Mon, 19 Jan 2026 14:00:00 GMT"
+    }
+  ],
+  "createdAt": "2026-03-30T12:04:46.057534"
+}

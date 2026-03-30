@@ -1,0 +1,86 @@
+{
+  "id": "20260330_195631",
+  "date": "2026-03-30",
+  "insight": "There is a growing trend of significant investments in AI-related technologies, with companies securing hundreds of millions of dollars in funding to develop and improve AI computing efficiency, chips, and infrastructure. This influx of capital is likely driving innovation and scaling in the AI industry, particularly in areas such as code verification and AI tool development.",
+  "articles": [
+    {
+      "headline": "ScaleOps raises $130M for AI computing efficiency",
+      "bulletPoints": [
+        "Raised $130M to tackle GPU shortages",
+        "Automating infrastructure in real time",
+        "Improving AI cloud costs"
+      ],
+      "whyItMatters": "ScaleOps aims to address GPU shortages and high AI cloud costs with automation.",
+      "category": "Startups",
+      "sourceUrl": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "Mon, 30 Mar 2026 13:52:02 +0000"
+    },
+    {
+      "headline": "AI chip startup Rebellions raises $400 million at $2.3B valuation",
+      "bulletPoints": [
+        "Raised $400 million in pre-IPO round",
+        "Valued at $2.3 billion",
+        "Planning to go public later this year"
+      ],
+      "whyItMatters": "Rebellions' success challenges Nvidia's dominance in AI chip market",
+      "category": "Startups",
+      "sourceUrl": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "Mon, 30 Mar 2026 13:00:00 +0000"
+    },
+    {
+      "headline": "Mistral AI raises $830M in debt for Paris data center",
+      "bulletPoints": [
+        "Raised $830M in debt for a data center near Paris",
+        "Aims to start operating by second quarter of 2026",
+        "No additional details provided"
+      ],
+      "whyItMatters": "This funding will enable Mistral AI to establish a significant data center presence in Europe.",
+      "category": "Startups",
+      "sourceUrl": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "Mon, 30 Mar 2026 12:49:51 +0000"
+    },
+    {
+      "headline": "Qodo raises $70M for code verification as AI coding scales",
+      "bulletPoints": [
+        "AI-generated code is flooding software development",
+        "Qodo aims to verify the accuracy of AI-generated code",
+        "Company raises $70M in funding to support its mission"
+      ],
+      "whyItMatters": "This funding round highlights the growing need for code verification as AI adoption increases in software development.",
+      "category": "LLMs",
+      "sourceUrl": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/",
+      "sourceName": "TechCrunch AI",
+      "publishedAt": "Mon, 30 Mar 2026 12:30:00 +0000"
+    },
+    {
+      "headline": "Startup Axiom Math Releases AI Tool for Mathematicians",
+      "bulletPoints": [
+        "Axiom Math's free AI tool, Axplorer, discovers mathematical patterns",
+        "Designed to unlock solutions to long-standing problems",
+        "Redesign of existing tool PatternBoost"
+      ],
+      "whyItMatters": "This AI tool has the potential to revolutionize the field of mathematics by providing new insights and solutions to complex problems.",
+      "category": "Research",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "Wed, 25 Mar 2026 13:59:17 +0000"
+    },
+    {
+      "headline": "Agentic commerce runs on truth and context",
+      "bulletPoints": [
+        "Digital agents can execute purchases based on user preferences",
+        "Agents assemble itineraries and handle details",
+        "Shift from assistance to execution in commerce"
+      ],
+      "whyItMatters": "This technology has the potential to revolutionize the way we interact with digital commerce, making it more personalized and efficient.",
+      "category": "LLMs",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
+      "sourceName": "MIT Tech Review",
+      "publishedAt": "Wed, 25 Mar 2026 11:48:13 +0000"
+    }
+  ],
+  "createdAt": "2026-03-30T19:56:31.379844"
+}
